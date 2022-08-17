@@ -8,3 +8,4 @@ Colección de trabajos prácticos realizados en el contexto de la Carrera de Esp
 ## Carpetas
 
 - **tp3_leds**: Proyecto de testing con **ceedling** para funcionalidad de leds virtuales.
+- **tp4_real_world_test**: Proyecto de testing con **ceedling** aplicado al mundo real (código de producción en otro proyecto).
